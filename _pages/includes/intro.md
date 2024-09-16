@@ -1,4 +1,4 @@
-I am a M.S. student in the School of Computer Science and Technology, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/). My supervisors are Prof. [Jungang Xu](https://people.ucas.edu.cn/~xujg). 
+I am a M.S. student in the School of Computer Science and Technology, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/). My supervisors is Prof. [Jungang Xu](https://people.ucas.edu.cn/~xujg). 
 I received a B.S. degree from the College of Software Engineering at Beijing Jiaotong University, Beijing, China in June 2022.
 
 My research interests include multimodal learning, self-supervised learning, neural architecture search, specifically for prompt learning. I am currently applying for PhD programs in the United States for Fall 2025, with a focus on Computer Science and Computational Biology.
